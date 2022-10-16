@@ -1,0 +1,5 @@
+- [x] Create a new to-do
+- [x] List all to-dos
+- [x] Modify the Title and Deadline of an existing to-do
+- [x] Check a to-do as done
+- [x] Delete a to-do
